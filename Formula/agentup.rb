@@ -1,4 +1,4 @@
-class AgentUp < Formula
+class Agentup < Formula
   include Language::Python::Virtualenv
 
   desc "AgentUp is a tool for building and deploying AI agents"
